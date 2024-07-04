@@ -1,0 +1,2 @@
+Challenge de Portafolio Personal siguiendo la estructura solicitada en donde empleamos parte las técnicas y procesos aprendidos en el curso con la finalidad de mostrar nuestro perfil profesional empleando dichas técnicas.
+Es evidente que es un trabajo de principiante y queda mucho camino por andar para poder generar proyectos aún más interesantes, sin embargo ha resultado muy interesante y satisfactorio este desafío.
